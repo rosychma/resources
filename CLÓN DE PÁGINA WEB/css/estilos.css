@@ -1,0 +1,38 @@
+.styleimagenredonda{
+     text-align: left;
+     margin-top: auto;
+     margin-left: auto;
+     margin-right: auto;
+     height: 48;
+     width: 48;
+     border-radius: 50%;
+}
+
+.styleh1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23.5px;
+}
+
+.caja-blanca{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 333px;
+    width: 734px;
+}
+
+.caja-blanca img{
+    height: 302px;
+    width: 400px;
+}
+
+.caja-blanca1{
+    background-color: white;
+    height: 333px;
+    width: 734px;
+    font-size: 22px;
+}
